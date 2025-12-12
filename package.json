@@ -1,0 +1,13 @@
+{
+  "name": "mafia-backend",
+  "version": "1.0.0",
+  "description": "Backend server for a mafia web game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
